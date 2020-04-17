@@ -8,5 +8,6 @@
 - I had to install some software on the server and turn some services. [Running Services](https://i.imgur.com/S3ZAUl5.png)
 - At this point I could create my honeypot sensor and install the required software to get it setup. I got the information by browsing to mhn-admin ID (http://35.184.206.103/) and using the deploy function to get a script to run on my honeypot. [Honeypot Script](https://i.imgur.com/EMssDfn.gif)
 - Once that was installed my Honeypot was up and running [Honeypot](https://i.imgur.com/kgAmu5g.png)
-- Created a few more different types of Honeypots
+- Created a few more different types of Honeypots [Alternate Honeypots](https://i.imgur.com/rO1DuXt.png)
+- Used the Deploy option to get code for the other Honeypots [Adding Code To Honeypot]{https://i.imgur.com/SJ1Jy7E.png)
 - I was successfully able to run all three at once from my gcloud [Running Honeypots](https://recordit.co/HpPVdH0mzc)
