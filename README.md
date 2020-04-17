@@ -8,4 +8,4 @@
 - I had to install some software on the server and turn some services. [Running Services](https://i.imgur.com/S3ZAUl5.png)
 - At this point I could create my honeypot sensor and install the required software to get it setup. I got the information by browsing to mhn-admin ID (http://35.184.206.103/) and using the deploy function to get a script to run on my honeypot. [Honeypot Script](https://i.imgur.com/EMssDfn.gif)
 - Once that was installed my Honeypot was up and running [Honeypot](https://i.imgur.com/kgAmu5g.png)
-- Honeypot up and running [Running Honeypot](https://recordit.co/GO1445kIRM)
+- Honeypot up and running [Running Honeypot](https://recordit.co/HpPVdH0mzc)
