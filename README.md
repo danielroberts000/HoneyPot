@@ -2,4 +2,10 @@
 - My first step was to down load and install Google Cloud SDK which allowed me to connect to my google cloud account, run commands, and create instances. 
 - Next step was to create my project and make sure that everything was being billed properly.This was somewhat tricky because I had not setup an account yet. but onces I did I was able to use the gcloud alpha commands to link my project to that account so that I could start working with the firewall and building my instanes. 
 - Once everything was billed I started by making sure the compute services was enabled and got a list of the current firewall rules. 
--Then I got a chance to start working on my Firewall Rules. [Enabling Compute](https://i.imgur.com/PCy6y2J.gif)
+- Then I got a chance to start working on my Firewall Rules. [Enabling Compute](https://i.imgur.com/PCy6y2J.gif)
+- At which point I had to setup my firewall Rules. [Firewall Rules](https://i.imgur.com/uXCzjzf.png)
+- I created my mhn-admin instance after that and allowed SSH. [Creating MHN](https://i.imgur.com/TYoTIZn.png)
+- I had to install some software on the server and turn some services. [Running Services](https://i.imgur.com/S3ZAUl5.png)
+- At this point I could create my honeypot sensor and install the required software to get it setup. I got the information by browsing to mhn-admin ID (http://35.184.206.103/) and using the deploy function to get a script to run on my honeypot. [Honeypot Script](https://i.imgur.com/EMssDfn.gif)
+- Once that was installed my Honeypot was up and running [Honeypot](https://i.imgur.com/kgAmu5g.png)
+- Honeypot up and running [Running Honeypot](https://recordit.co/GO1445kIRM)
